@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mcs-virtualization"
+version = "0.1.0"
+description = ""
+authors = ["Eddie Vels <eddie.vels0@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
